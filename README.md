@@ -2,9 +2,9 @@ Members:
 
 Vatsala Swaroop (vs2671), Bhavya Shahi (bs3118), Ketakee Nimavat (kkn2112)
 
-Github link:
+Github link: https://github.com/bhavya754/applied-dl/
 
-Youtube link:
+Youtube link: 
 
 The submission contains 7 Jupyter notebooks:
 
