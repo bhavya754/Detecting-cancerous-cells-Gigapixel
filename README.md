@@ -1,10 +1,10 @@
-Members:
+### Members:
 
 Vatsala Swaroop (vs2671), Bhavya Shahi (bs3118), Ketakee Nimavat (kkn2112)
 
-Github link:
+**Github link**: https://github.com/bhavya754/applied-dl/
 
-Youtube link:
+**Youtube link**: 
 
 The submission contains 7 Jupyter notebooks:
 
@@ -29,12 +29,12 @@ For multi scale - run in order -
 7. 007_multiple_levels_test_evalution.ipynb : Loads our two main models and evaluates it on 3 test images. This notebook also contains summary of experiments done, analysis, results, future work, utility and notes on metric design
 
 
-We uploaded all our files on GCP and we assume that the slides are in the sum folder in which the notebook is being run. We ran our models on a 16 CPU, 1 GPU VM instance.
+We uploaded all our files on GCP and we assume that the slides are in the same folder in which the notebook is being run. We ran our models on a 16 CPU, 1 GPU VM instance.
+
+We had to split out project into several notebooks since memory overflow, and GPU utilisation was an issue, causing several failures. We decided to isolate the functionality to enhance readability and re-usability
 
 
-
-
-
+Project Summary.pdf contains a summary of the project.
 
 
 
