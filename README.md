@@ -1,8 +1,6 @@
 Members:
 
-Vatsala Swaroop (vs2671)
-Bhavya Shahi (bs3118)
-Ketakee Nimavat (kkn2112)
+Vatsala Swaroop (vs2671), Bhavya Shahi (bs3118), Ketakee Nimavat (kkn2112)
 
 Github link:
 
