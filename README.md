@@ -2,9 +2,9 @@
 
 Vatsala Swaroop (vs2671), Bhavya Shahi (bs3118), Ketakee Nimavat (kkn2112)
 
-Github link: https://github.com/bhavya754/applied-dl/
+**Github link**: https://github.com/bhavya754/applied-dl/
 
-Youtube link: 
+**Youtube link**: 
 
 The submission contains 7 Jupyter notebooks:
 
@@ -34,7 +34,7 @@ We uploaded all our files on GCP and we assume that the slides are in the same f
 We had to split out project into several notebooks since memory overflow, and GPU utilisation was an issue, causing several failures. We decided to isolate the functionality to enhance readability and re-usability
 
 
-
+Project Summary.pdf contains a summary of the project.
 
 
 
